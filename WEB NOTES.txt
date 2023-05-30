@@ -1,0 +1,48 @@
+HTML TAGS
+in html tag is nothing but a keyword written inside arrow brackets.
+tags will tell the browser how to display its content.
+HTML  is case insensitive becoz all the tags will work in both upper case and lower case.
+
+types:
+1. single tag:<keyword>
+if we just open a tag we call it single or unpaired tag.
+
+2. double tag:<keyword>content</keyword>
+if we open a tag and then we close it we call it as double or paired tag.
+
+HEADER TAG:<head>..................</head>
+1.it will tell the browser the font size and boldness of the text.
+2.header will occupy unique line to display its content.
+3.there are six different header tags:<h1> <h2> <h3> <h4> <h5> <h6> (these differ with the font size).
+
+PARAGRAPH TAG:<p>.....................</p>
+1.paragraph tells the browser to display the paragraph normally.
+2.its main behavior is it  will just auto adjust the lines.
+3.space occupied by the paragraph is unique line.
+
+SPAN TAG:
+1.it will display like normal text data.
+2.space occupied by the  span tag is same line.
+
+
+ATTRIBUTES:
+syntax:<tag attribute="value">
+            content
+        </tag>
+attributes in html can be used to apply some basic amount of style.
+1.BODY TAG ATTRIBUTES: 
+1.text=colour name/colour code
+ex:<body text="red">
+2.background color=color name/color code
+ex:<body text="red" bgcolor="aquamarine">
+3.background image:
+syntax:"path/doc name"
+ex:<body text="red" background=image.jpg >
+
+
+
+
+
+
+ 
+
